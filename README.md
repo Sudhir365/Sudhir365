@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sudhir
 - 👀 I’m interested in ... data
-- 🌱 I’m currently learning ... Data analyst
-- 💞️ I’m looking to collaborate on ... https://www.linkedin.com/in/sudhir-kumar-1888b1286/
+- 🌱 I have learnt... Data analyst & now looking for a job.
+- 🤝 I’m looking to collaborate on ... https://www.linkedin.com/in/sudhir-kumar-1888b1286/
 - 📫 How to reach me ... https://www.linkedin.com/in/sudhir-kumar-1888b1286/
 
 <!---
