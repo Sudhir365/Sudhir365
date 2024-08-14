@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudhir365
+- 👋 Hi, I’m Sudhir
 - 👀 I’m interested in ... data
 - 🌱 I’m currently learning ... Data analyst
 - 💞️ I’m looking to collaborate on ... https://www.linkedin.com/in/sudhir-kumar-1888b1286/
